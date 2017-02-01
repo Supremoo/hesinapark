@@ -1,0 +1,26 @@
+body {
+  background: #000000;
+  margin: auto;
+  overflow: hidden;
+}
+
+#frame {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 360px;
+  height: 465px;
+  border: none;
+}
+
+@media screen and (min-width: 360px) {
+  #frame {
+    left: calc(50% - 180px);
+  }
+}
+
+@media screen and (min-height: 465px) {
+  #frame {
+    top: calc(50% - 233px);
+  }
+}

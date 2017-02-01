@@ -1,0 +1,585 @@
+a:3:{s:4:"time";i:1485370527;s:3:"ttl";i:0;s:4:"data";a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:0;a:6:{s:4:"data";s:95:"
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+		
+
+	";s:7:"attribs";a:1:{s:36:"http://www.w3.org/XML/1998/namespace";a:1:{s:4:"lang";s:7:"english";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:4:"Blog";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"text";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:8:"subtitle";a:1:{i:0;a:5:{s:4:"data";s:7:"Blog - ";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"text";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:4:"link";a:2:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:0:"";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:4:"self";s:4:"type";s:20:"application/atom+xml";s:4:"href";s:49:"https://expressionengine.com/blog/rss-feed/cpnews";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2017-01-20T20:39:01+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:6:"rights";a:1:{i:0;a:5:{s:4:"data";s:30:"Copyright (c) 2017, Kevin Cupp";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:9:"generator";a:1:{i:0;a:5:{s:4:"data";s:16:"ExpressionEngine";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"uri";s:28:"http://expressionengine.com/";s:7:"version";s:5:"3.5.0";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:29:"https://expressionengine.com/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:5:"entry";a:10:{i:0;a:6:{s:4:"data";s:123:"
+				
+				
+				
+				
+				
+				
+				
+					
+					
+				
+					
+					
+				
+					
+					
+				
+				
+
+				
+				
+					
+					
+				
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:10:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:31:"ExpressionEngine 3.5.1 Released";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:65:"https://expressionengine.com/blog/expressionengine-3.5.1-released";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:65:"https://expressionengine.com/blog/expressionengine-3.5.1-released";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2017-01-20T20:21:00+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2017-01-20T20:39:01+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:23:"
+					
+					
+					
+				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:3:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Kevin Cupp";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:5:"email";a:1:{i:0;a:5:{s:4:"data";s:23:"kevin.cupp@ellislab.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:3:"uri";a:1:{i:0;a:5:{s:4:"data";s:24:"http://www.kevincupp.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}}}}}s:8:"category";a:3:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:17:"CP Accessory Feed";s:6:"scheme";s:60:"https://expressionengine.com/blog/category/cp-accessory-feed";s:5:"label";s:17:"CP Accessory Feed";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:16:"ExpressionEngine";s:6:"scheme";s:59:"https://expressionengine.com/blog/category/expressionengine";s:5:"label";s:16:"ExpressionEngine";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}i:2;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:4:"News";s:6:"scheme";s:47:"https://expressionengine.com/blog/category/news";s:5:"label";s:4:"News";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:882:"
+				<p>Ever improving, ExpressionEngine 3.5.1 is available <a href="/store/purchases">for download</a>. This release further improves the security and backwards compatibility of the new <a href="https://docs.expressionengine.com/v3/development/services/encrypt.html">Encrypt service</a>, adds <a href="https://docs.expressionengine.com/v3/fieldtypes/select.html#value-label-pairs">value/label capability</a> to the Select field for custom Category and Member fields, and provides some quick iteration based on your feedback to the File field interface introduced in 3.5.0. A handful of bug fixes rounds out this Friday release.</p>
+
+<p>Check out the <a href="https://docs.expressionengine.com/v3/about/changelog.html#version-3-5-1">changelog</a> and <a href="https://docs.expressionengine.com/v3/installation/version_notes_3.5.1.html">version notes</a> for all the deets.</p>
+
+				";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Fri, 20 Jan 2017 20:21:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:872:"<p>Ever improving, ExpressionEngine 3.5.1 is available <a href="/store/purchases">for download</a>. This release further improves the security and backwards compatibility of the new <a href="https://docs.expressionengine.com/v3/development/services/encrypt.html">Encrypt service</a>, adds <a href="https://docs.expressionengine.com/v3/fieldtypes/select.html#value-label-pairs">value/label capability</a> to the Select field for custom Category and Member fields, and provides some quick iteration based on your feedback to the File field interface introduced in 3.5.0. A handful of bug fixes rounds out this Friday release.</p>
+
+<p>Check out the <a href="https://docs.expressionengine.com/v3/about/changelog.html#version-3-5-1">changelog</a> and <a href="https://docs.expressionengine.com/v3/installation/version_notes_3.5.1.html">version notes</a> for all the deets.</p>
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}}}}i:1;a:6:{s:4:"data";s:123:"
+				
+				
+				
+				
+				
+				
+				
+					
+					
+				
+					
+					
+				
+					
+					
+				
+				
+
+				
+				
+					
+					
+				
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:10:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:42:"ExpressionEngine 3.4.7 and 2.11.5 Released";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:76:"https://expressionengine.com/blog/expressionengine-3.4.7-and-2.11.5-released";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:76:"https://expressionengine.com/blog/expressionengine-3.4.7-and-2.11.5-released";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2016-12-30T18:42:00+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2016-12-30T19:23:59+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:23:"
+					
+					
+					
+				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:2:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:11:"Seth Barber";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:5:"email";a:1:{i:0;a:5:{s:4:"data";s:24:"seth.barber@ellislab.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}}}}}s:8:"category";a:3:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:17:"CP Accessory Feed";s:6:"scheme";s:60:"https://expressionengine.com/blog/category/cp-accessory-feed";s:5:"label";s:17:"CP Accessory Feed";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:16:"ExpressionEngine";s:6:"scheme";s:59:"https://expressionengine.com/blog/category/expressionengine";s:5:"label";s:16:"ExpressionEngine";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}i:2;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:4:"News";s:6:"scheme";s:47:"https://expressionengine.com/blog/category/news";s:5:"label";s:4:"News";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1097:"
+				<p>For our final release of 2016 we bring you ExpressionEngine 3.4.7 and 2.11.5. While this is a patch release it is also our response to the recent PHPMailer remote code execution exploit, which is symptomatic of a <a href="https://gist.github.com/Zenexer/40d02da5e07f151adeaeeaa11af9ab36">broader issue in PHP&#8217;s architecture</a>.</p>
+
+<p>ExpressionEngine itself was not vulnerable, but we hardened our email library so it&#8217;s not dependent on other aspects of the application to remain protected. This also protects third-party add-ons that are using our email library. We have noticed that some add-ons ship with their own PHP email libraries like PHPMailer, Swift Mailer, etc., so if you are running any add-ons that use those you will need to make sure that you update them to ensure your site is safe.</p>
+
+<p>Check our changelog (<a href="https://docs.expressionengine.com/v3/about/changelog.html#version-3-4-7">3.4.7</a>,  <a href="https://docs.expressionengine.com/v2/about/changelog.html#version-2-11-5">2.11.5</a>) for the full list of changes for this release.</p>
+
+				";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Fri, 30 Dec 2016 18:42:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:1087:"<p>For our final release of 2016 we bring you ExpressionEngine 3.4.7 and 2.11.5. While this is a patch release it is also our response to the recent PHPMailer remote code execution exploit, which is symptomatic of a <a href="https://gist.github.com/Zenexer/40d02da5e07f151adeaeeaa11af9ab36">broader issue in PHP&#8217;s architecture</a>.</p>
+
+<p>ExpressionEngine itself was not vulnerable, but we hardened our email library so it&#8217;s not dependent on other aspects of the application to remain protected. This also protects third-party add-ons that are using our email library. We have noticed that some add-ons ship with their own PHP email libraries like PHPMailer, Swift Mailer, etc., so if you are running any add-ons that use those you will need to make sure that you update them to ensure your site is safe.</p>
+
+<p>Check our changelog (<a href="https://docs.expressionengine.com/v3/about/changelog.html#version-3-4-7">3.4.7</a>,  <a href="https://docs.expressionengine.com/v2/about/changelog.html#version-2-11-5">2.11.5</a>) for the full list of changes for this release.</p>
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}}}}i:2;a:6:{s:4:"data";s:123:"
+				
+				
+				
+				
+				
+				
+				
+					
+					
+				
+					
+					
+				
+					
+					
+				
+				
+
+				
+				
+					
+					
+				
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:10:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:42:"ExpressionEngine 3.4.6 and 2.11.4 Released";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:76:"https://expressionengine.com/blog/expressionenigne-3.4.6-and-2.11.4-released";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:76:"https://expressionengine.com/blog/expressionenigne-3.4.6-and-2.11.4-released";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2016-12-13T19:03:00+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2016-12-14T14:54:47+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:23:"
+					
+					
+					
+				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:2:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:11:"Seth Barber";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:5:"email";a:1:{i:0;a:5:{s:4:"data";s:24:"seth.barber@ellislab.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}}}}}s:8:"category";a:3:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:17:"CP Accessory Feed";s:6:"scheme";s:60:"https://expressionengine.com/blog/category/cp-accessory-feed";s:5:"label";s:17:"CP Accessory Feed";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:16:"ExpressionEngine";s:6:"scheme";s:59:"https://expressionengine.com/blog/category/expressionengine";s:5:"label";s:16:"ExpressionEngine";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}i:2;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:4:"News";s:6:"scheme";s:47:"https://expressionengine.com/blog/category/news";s:5:"label";s:4:"News";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:673:"
+				<p>On the <em>n<sup>th</sup></em> day of Christmas EllisLab gave to me&#8230;2 patch releases, <s>and a partridge in a pear tree</s>. Today we are happy to release ExpressionEngine 3.4.6 which addresses a dozen bugs, including one in which your Add-ons table would show up empty in certain PHP environments; we put those environments on the naughty list. Check our <a href="https://docs.expressionengine.com/v3/about/changelog.html#version-3-4-6">changelog</a> for the full list. We are also releasing 2.11.4 which fixes a few bugs, check the <a href="https://docs.expressionengine.com/v2/about/changelog.html#version-2-11-4">changelog</a> for the full list.</p>
+
+				";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Tue, 13 Dec 2016 19:03:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:663:"<p>On the <em>n<sup>th</sup></em> day of Christmas EllisLab gave to me&#8230;2 patch releases, <s>and a partridge in a pear tree</s>. Today we are happy to release ExpressionEngine 3.4.6 which addresses a dozen bugs, including one in which your Add-ons table would show up empty in certain PHP environments; we put those environments on the naughty list. Check our <a href="https://docs.expressionengine.com/v3/about/changelog.html#version-3-4-6">changelog</a> for the full list. We are also releasing 2.11.4 which fixes a few bugs, check the <a href="https://docs.expressionengine.com/v2/about/changelog.html#version-2-11-4">changelog</a> for the full list.</p>
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}}}}i:3;a:6:{s:4:"data";s:123:"
+				
+				
+				
+				
+				
+				
+				
+					
+					
+				
+					
+					
+				
+					
+					
+				
+				
+
+				
+				
+					
+					
+				
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:10:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:31:"ExpressionEngine 3.4.5 Released";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:65:"https://expressionengine.com/blog/expressionengine-3.4.5-released";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:65:"https://expressionengine.com/blog/expressionengine-3.4.5-released";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2016-12-06T19:32:00+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2016-12-13T19:17:52+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:23:"
+					
+					
+					
+				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:3:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Kevin Cupp";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:5:"email";a:1:{i:0;a:5:{s:4:"data";s:23:"kevin.cupp@ellislab.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:3:"uri";a:1:{i:0;a:5:{s:4:"data";s:24:"http://www.kevincupp.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}}}}}s:8:"category";a:3:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:17:"CP Accessory Feed";s:6:"scheme";s:60:"https://expressionengine.com/blog/category/cp-accessory-feed";s:5:"label";s:17:"CP Accessory Feed";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:16:"ExpressionEngine";s:6:"scheme";s:59:"https://expressionengine.com/blog/category/expressionengine";s:5:"label";s:16:"ExpressionEngine";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}i:2;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:4:"News";s:6:"scheme";s:47:"https://expressionengine.com/blog/category/news";s:5:"label";s:4:"News";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:593:"
+				<p>This release has a little bit of everything! We&#8217;re talking enhancements in security, stability, speed, and usability.</p>
+
+<p>Notably, this release includes many long-awaited Channel Form fixes, improvements to the performance and third-party compatibility of filtering entries in Relationship fields, plus 35+ other improvements you can view in the <a href="https://docs.expressionengine.com/v3/about/changelog.html#version-3-4-5">changelog</a>.</p>
+
+<p>Head over to the new <a href="https://expressionengine.com/store/purchases">Purchases</a> page to download a copy.</p>
+
+				";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Tue, 06 Dec 2016 19:32:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:583:"<p>This release has a little bit of everything! We&#8217;re talking enhancements in security, stability, speed, and usability.</p>
+
+<p>Notably, this release includes many long-awaited Channel Form fixes, improvements to the performance and third-party compatibility of filtering entries in Relationship fields, plus 35+ other improvements you can view in the <a href="https://docs.expressionengine.com/v3/about/changelog.html#version-3-4-5">changelog</a>.</p>
+
+<p>Head over to the new <a href="https://expressionengine.com/store/purchases">Purchases</a> page to download a copy.</p>
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}}}}i:4;a:6:{s:4:"data";s:123:"
+				
+				
+				
+				
+				
+				
+				
+					
+					
+				
+					
+					
+				
+					
+					
+				
+				
+
+				
+				
+					
+					
+				
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:10:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:64:"Don’t Miss the Bargain of the Year: One Day Only 20%&nbsp;Off!";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:87:"https://expressionengine.com/blog/dont-miss-the-bargain-of-the-year-one-day-only-20-off";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:87:"https://expressionengine.com/blog/dont-miss-the-bargain-of-the-year-one-day-only-20-off";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2016-11-28T08:01:00+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2016-12-05T20:31:33+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:23:"
+					
+					
+					
+				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:2:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:11:"Derek Jones";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:5:"email";a:1:{i:0;a:5:{s:4:"data";s:24:"derek.jones@ellislab.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}}}}}s:8:"category";a:3:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:17:"CP Accessory Feed";s:6:"scheme";s:60:"https://expressionengine.com/blog/category/cp-accessory-feed";s:5:"label";s:17:"CP Accessory Feed";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:16:"ExpressionEngine";s:6:"scheme";s:59:"https://expressionengine.com/blog/category/expressionengine";s:5:"label";s:16:"ExpressionEngine";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}i:2;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:4:"News";s:6:"scheme";s:47:"https://expressionengine.com/blog/category/news";s:5:"label";s:4:"News";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:474:"
+				<p>It&#8217;s Cyber Monday, so why not? For today only, enjoy 20% off all ExpressionEngine and CartThrob purchases, including upgrades. Buy now and pass the savings along to your current or future clients!</p>
+
+<p><a href="https://expressionengine.com/store">Use coupon code</a> <strong>KXPVX-YKYHY</strong> at checkout.</p>
+
+<figure><img src="https://expressionengine.com/asset/img/blog/cyber-monday-blog.png" alt="20% off with coupon code KXPVX-YKYHY"></figure>
+
+				";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Mon, 28 Nov 2016 08:01:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:464:"<p>It&#8217;s Cyber Monday, so why not? For today only, enjoy 20% off all ExpressionEngine and CartThrob purchases, including upgrades. Buy now and pass the savings along to your current or future clients!</p>
+
+<p><a href="https://expressionengine.com/store">Use coupon code</a> <strong>KXPVX-YKYHY</strong> at checkout.</p>
+
+<figure><img src="https://expressionengine.com/asset/img/blog/cyber-monday-blog.png" alt="20% off with coupon code KXPVX-YKYHY"></figure>
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}}}}i:5;a:6:{s:4:"data";s:106:"
+				
+				
+				
+				
+				
+				
+				
+					
+					
+				
+					
+					
+				
+				
+
+				
+				
+					
+					
+				
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:10:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:33:"New Digs for ExpressionEngine.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:67:"https://expressionengine.com/blog/new-digs-for-expressionengine.com";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:67:"https://expressionengine.com/blog/new-digs-for-expressionengine.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2016-11-16T15:53:00+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2016-11-16T17:06:10+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:23:"
+					
+					
+					
+				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:2:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:11:"Derek Jones";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:5:"email";a:1:{i:0;a:5:{s:4:"data";s:24:"derek.jones@ellislab.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}}}}}s:8:"category";a:2:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:17:"CP Accessory Feed";s:6:"scheme";s:60:"https://expressionengine.com/blog/category/cp-accessory-feed";s:5:"label";s:17:"CP Accessory Feed";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:4:"News";s:6:"scheme";s:47:"https://expressionengine.com/blog/category/news";s:5:"label";s:4:"News";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:4170:"
+				<p>Welcome to the new site! We are thrilled to move ExpressionEngine back to its own domain and put the focus where it belongs: on the <abbr title="Content Management System">CMS</abbr> our customers know and love.</p>
+
+<figure><img src="https://expressionengine.com/asset/img/blog/welcome-home-blog.png" alt="Welcome Home, ExpressionEngine"></figure>
+
+<p>In a way, this was long overdue. Four years ago, we adopted a manifesto that tolerates no distractions. Over the next two years we set about improving ExpressionEngine 2. We eliminated other projects by retiring MojoMotor and finding a new caretaker for CodeIgniter. From there it was full bore on ExpressionEngine 3, which we released just over a year ago. We&#8217;ve averaged one release every two weeks, with hundreds of enhancements and improvements. That&#8217;s nearly a 4x increase in the pace of development. The software is once again modern and has a great user-experience, and deserves no less for its web site. Though often cited in the industry as a reason for outdated sites, there is no excuse for the cobbler&#8217;s children to go barefoot.</p>
+
+<p>Relaunched on <a href="https://expressionengine.com/">expressionengine.com</a>, ExpressionEngine is now front and center, and communicates its benefits clearly. The store has a fresh checkout process, and the support and download areas are also much improved. The bug tracker is more useful, and our community sections do a better job focusing on modern, up-to-date resources. We even began <a href="https://expressionengine.com/forums/topic/249473/welcome-to-the-new-site-and-forums">rewriting the forum module</a>, which will have a future benefit for all community sites built with ExpressionEngine.</p>
+
+<p>We have a lot in store though. The new site is a fresh starting point rather than a finish line. We will be regularly improving the site using the same methods we use for quick, iterative updates to our software. Here are a few examples that we plan on shipping soon:</p>
+
+<ul>
+<li>A rich <a href="https://expressionengine.com/learn">Learn</a> section. This section will feature all sorts of eductaional content from both our team and experienced community members. If you are an ExpressionEngine expert, <a href="&#109;&#x61;&#x69;&#108;&#116;&#x6f;&#58;&#116;&#x65;&#97;&#109;&#x40;e&#108;&#x6c;&#x69;&#115;&#x6c;&#x61;&#98;&#46;&#x63;&#111;&#109;&#x3f;s&#117;&#x62;&#x6a;&#101;&#x63;&#x74;&#61;&#69;&#x78;&#112;&#114;&#x65;s&#115;&#x69;o&#110;&#x45;&#x6e;&#103;&#x69;&#x6e;&#101;&#37;&#x32;&#48;&#76;&#x65;a&#114;&#x6e;&#x69;&#110;&#x67;&#x25;&#50;&#48;&#x63;&#111;&#110;&#x74;e&#110;&#x74;%&#50;&#x30;&#x73;&#117;&#x62;&#x6d;&#105;&#115;&#x73;&#105;&#111;&#x6e;s&#38;&#x62;&#x6f;&#100;&#x79;&#x3d;&#80;&#108;&#x65;&#97;&#115;&#x65;%&#50;&#x30;&#x73;&#105;&#x67;&#x6e;&#37;&#50;&#x30;&#109;&#101;&#x25;&#50;&#48;&#x75;p&#37;&#x32;&#x30;&#97;&#x6e;&#x64;&#37;&#50;&#x30;&#108;&#101;&#x74;%&#50;&#x30;&#x6d;&#101;&#x25;&#x32;&#48;&#107;&#x6e;&#111;&#119;&#x25;2&#48;&#x77;h&#101;&#x6e;&#x25;&#50;&#x30;&#x49;&#37;&#50;&#x30;&#99;&#97;&#x6e;%&#50;&#x30;&#x73;&#104;&#x61;&#x72;&#101;&#37;&#x32;&#48;&#109;&#x79;%&#50;&#x30;E&#120;&#x70;&#x72;&#101;&#x73;&#x73;&#105;&#111;&#x6e;&#69;&#110;&#x67;i&#110;&#x65;&#x25;&#50;&#x30;&#x65;&#120;&#112;&#x65;&#114;&#116;&#x69;s&#101;&#x25;&#x32;&#48;&#x77;&#x69;&#116;&#104;&#x25;&#50;&#48;&#x74;&#104;&#101;&#x25;2&#48;&#x63;&#x6f;&#109;&#x6d;&#x75;&#110;&#105;&#x74;&#121;&#33;">sign up to be notified</a> when we start taking submissions.</li>
+<li>Professional Network launch. Yes, we are finally going to move the Pro Network out of beta. We will email participants in the coming weeks to explain what&#8217;s coming with the launch. We are confident that this will be a valuable asset to both ExpressionEngine professionals as well as end users.</li>
+<li>Resources to help freelancers and agencies sell ExpressionEngine. Win for your client, win for you, win for us. Everybody wins.</li>
+</ul>
+
+<p>We invite you to explore the new site, and subscribe to our newsletter below, which will only have one more issue from <code>pixelbuzz@ellislab.com</code>. We hope you enjoy it!</p>
+
+				";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Wed, 16 Nov 2016 15:53:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:4160:"<p>Welcome to the new site! We are thrilled to move ExpressionEngine back to its own domain and put the focus where it belongs: on the <abbr title="Content Management System">CMS</abbr> our customers know and love.</p>
+
+<figure><img src="https://expressionengine.com/asset/img/blog/welcome-home-blog.png" alt="Welcome Home, ExpressionEngine"></figure>
+
+<p>In a way, this was long overdue. Four years ago, we adopted a manifesto that tolerates no distractions. Over the next two years we set about improving ExpressionEngine 2. We eliminated other projects by retiring MojoMotor and finding a new caretaker for CodeIgniter. From there it was full bore on ExpressionEngine 3, which we released just over a year ago. We&#8217;ve averaged one release every two weeks, with hundreds of enhancements and improvements. That&#8217;s nearly a 4x increase in the pace of development. The software is once again modern and has a great user-experience, and deserves no less for its web site. Though often cited in the industry as a reason for outdated sites, there is no excuse for the cobbler&#8217;s children to go barefoot.</p>
+
+<p>Relaunched on <a href="https://expressionengine.com/">expressionengine.com</a>, ExpressionEngine is now front and center, and communicates its benefits clearly. The store has a fresh checkout process, and the support and download areas are also much improved. The bug tracker is more useful, and our community sections do a better job focusing on modern, up-to-date resources. We even began <a href="https://expressionengine.com/forums/topic/249473/welcome-to-the-new-site-and-forums">rewriting the forum module</a>, which will have a future benefit for all community sites built with ExpressionEngine.</p>
+
+<p>We have a lot in store though. The new site is a fresh starting point rather than a finish line. We will be regularly improving the site using the same methods we use for quick, iterative updates to our software. Here are a few examples that we plan on shipping soon:</p>
+
+<ul>
+<li>A rich <a href="https://expressionengine.com/learn">Learn</a> section. This section will feature all sorts of eductaional content from both our team and experienced community members. If you are an ExpressionEngine expert, <a href="&#109;&#x61;&#x69;&#108;&#116;&#x6f;&#58;&#116;&#x65;&#97;&#109;&#x40;e&#108;&#x6c;&#x69;&#115;&#x6c;&#x61;&#98;&#46;&#x63;&#111;&#109;&#x3f;s&#117;&#x62;&#x6a;&#101;&#x63;&#x74;&#61;&#69;&#x78;&#112;&#114;&#x65;s&#115;&#x69;o&#110;&#x45;&#x6e;&#103;&#x69;&#x6e;&#101;&#37;&#x32;&#48;&#76;&#x65;a&#114;&#x6e;&#x69;&#110;&#x67;&#x25;&#50;&#48;&#x63;&#111;&#110;&#x74;e&#110;&#x74;%&#50;&#x30;&#x73;&#117;&#x62;&#x6d;&#105;&#115;&#x73;&#105;&#111;&#x6e;s&#38;&#x62;&#x6f;&#100;&#x79;&#x3d;&#80;&#108;&#x65;&#97;&#115;&#x65;%&#50;&#x30;&#x73;&#105;&#x67;&#x6e;&#37;&#50;&#x30;&#109;&#101;&#x25;&#50;&#48;&#x75;p&#37;&#x32;&#x30;&#97;&#x6e;&#x64;&#37;&#50;&#x30;&#108;&#101;&#x74;%&#50;&#x30;&#x6d;&#101;&#x25;&#x32;&#48;&#107;&#x6e;&#111;&#119;&#x25;2&#48;&#x77;h&#101;&#x6e;&#x25;&#50;&#x30;&#x49;&#37;&#50;&#x30;&#99;&#97;&#x6e;%&#50;&#x30;&#x73;&#104;&#x61;&#x72;&#101;&#37;&#x32;&#48;&#109;&#x79;%&#50;&#x30;E&#120;&#x70;&#x72;&#101;&#x73;&#x73;&#105;&#111;&#x6e;&#69;&#110;&#x67;i&#110;&#x65;&#x25;&#50;&#x30;&#x65;&#120;&#112;&#x65;&#114;&#116;&#x69;s&#101;&#x25;&#x32;&#48;&#x77;&#x69;&#116;&#104;&#x25;&#50;&#48;&#x74;&#104;&#101;&#x25;2&#48;&#x63;&#x6f;&#109;&#x6d;&#x75;&#110;&#105;&#x74;&#121;&#33;">sign up to be notified</a> when we start taking submissions.</li>
+<li>Professional Network launch. Yes, we are finally going to move the Pro Network out of beta. We will email participants in the coming weeks to explain what&#8217;s coming with the launch. We are confident that this will be a valuable asset to both ExpressionEngine professionals as well as end users.</li>
+<li>Resources to help freelancers and agencies sell ExpressionEngine. Win for your client, win for you, win for us. Everybody wins.</li>
+</ul>
+
+<p>We invite you to explore the new site, and subscribe to our newsletter below, which will only have one more issue from <code>pixelbuzz@ellislab.com</code>. We hope you enjoy it!</p>
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}}}}i:6;a:6:{s:4:"data";s:123:"
+				
+				
+				
+				
+				
+				
+				
+					
+					
+				
+					
+					
+				
+					
+					
+				
+				
+
+				
+				
+					
+					
+				
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:10:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:43:"Extended End-of-Life for ExpressionEngine 2";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:77:"https://expressionengine.com/blog/extended-end-of-life-for-expressionengine-2";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:77:"https://expressionengine.com/blog/extended-end-of-life-for-expressionengine-2";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2016-09-27T15:00:00+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2016-09-28T15:58:11+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:23:"
+					
+					
+					
+				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:2:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:11:"Derek Jones";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:5:"email";a:1:{i:0;a:5:{s:4:"data";s:24:"derek.jones@ellislab.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}}}}}s:8:"category";a:3:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:17:"CP Accessory Feed";s:6:"scheme";s:60:"https://expressionengine.com/blog/category/cp-accessory-feed";s:5:"label";s:17:"CP Accessory Feed";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:16:"ExpressionEngine";s:6:"scheme";s:59:"https://expressionengine.com/blog/category/expressionengine";s:5:"label";s:16:"ExpressionEngine";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}i:2;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:4:"News";s:6:"scheme";s:47:"https://expressionengine.com/blog/category/news";s:5:"label";s:4:"News";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1931:"
+				<figure><img src="https://ellislab.com/asset/images/blog/screens-sunset-blog.png" alt="ExpressionEngine 2 Sunset"></figure>
+
+<p>When we released ExpressionEngine 3, ExpressionEngine 2 was scheduled for end-of-life <a href="https://expressionengine.com/blog/entry/version-2-end-of-life">on October 13</a>. In this past year, we continued to offer v2 as an alternative for all new purchases, in case you had a v2 project already planned.</p>
+
+<p>This was plenty of time for most customers, but there are still some folks who are unable to upgrade because they have been waiting for this or that add-on to be updated. As one specific example, somewhere just south of 20% of ExpressionEngine 2 sites used Structure. Thanks to a buyout and rapid development from the team at EEHarbor, Structure is <a href="https://eeharbor.com/structure" title="" rel="external">finally available for ExpressionEngine 3</a>. We also have word that Assets will be right on its heels, from the same team.</p>
+
+<p>It wouldn&#8217;t be good business or kind to tell all those people, &#8220;There you go, now you have about two weeks to plan and execute an upgrade to v3!&#8221; So we&#8217;ve decided to extend ExpressionEngine 2&#8217;s <a href="https://en.wikipedia.org/wiki/Golden_hour_(photography)" title="" rel="external">golden hour</a> before its sunset.</p>
+
+<p>We are extending ExpressionEngine 2&#8217;s <abbr title="End-of-Life">EOL</abbr> for at least three months, and will provide an updated date in mid-January. This means we will continue to provide support for the legacy platform, and continue to offer v2 as an alternative download for new purchases. To celebrate EEHarbor&#8217;s release of Structure for v3, <strong>we are offering an upgrade sale for the rest of this week, 33% off</strong>! <a href="https://store.ellislab.com/manage/upgradable">Buy now at the reduced price</a>, and upgrade when you&#8217;re ready!</p>
+
+				";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Tue, 27 Sep 2016 15:00:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:1921:"<figure><img src="https://ellislab.com/asset/images/blog/screens-sunset-blog.png" alt="ExpressionEngine 2 Sunset"></figure>
+
+<p>When we released ExpressionEngine 3, ExpressionEngine 2 was scheduled for end-of-life <a href="https://expressionengine.com/blog/entry/version-2-end-of-life">on October 13</a>. In this past year, we continued to offer v2 as an alternative for all new purchases, in case you had a v2 project already planned.</p>
+
+<p>This was plenty of time for most customers, but there are still some folks who are unable to upgrade because they have been waiting for this or that add-on to be updated. As one specific example, somewhere just south of 20% of ExpressionEngine 2 sites used Structure. Thanks to a buyout and rapid development from the team at EEHarbor, Structure is <a href="https://eeharbor.com/structure" title="" rel="external">finally available for ExpressionEngine 3</a>. We also have word that Assets will be right on its heels, from the same team.</p>
+
+<p>It wouldn&#8217;t be good business or kind to tell all those people, &#8220;There you go, now you have about two weeks to plan and execute an upgrade to v3!&#8221; So we&#8217;ve decided to extend ExpressionEngine 2&#8217;s <a href="https://en.wikipedia.org/wiki/Golden_hour_(photography)" title="" rel="external">golden hour</a> before its sunset.</p>
+
+<p>We are extending ExpressionEngine 2&#8217;s <abbr title="End-of-Life">EOL</abbr> for at least three months, and will provide an updated date in mid-January. This means we will continue to provide support for the legacy platform, and continue to offer v2 as an alternative download for new purchases. To celebrate EEHarbor&#8217;s release of Structure for v3, <strong>we are offering an upgrade sale for the rest of this week, 33% off</strong>! <a href="https://store.ellislab.com/manage/upgradable">Buy now at the reduced price</a>, and upgrade when you&#8217;re ready!</p>
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}}}}i:7;a:6:{s:4:"data";s:106:"
+				
+				
+				
+				
+				
+				
+				
+					
+					
+				
+					
+					
+				
+				
+
+				
+				
+					
+					
+				
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:10:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:30:"ExpressionEngine 3.4.0 is Out!";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:65:"https://expressionengine.com/blog/expressionengine-3.4.0-released";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:65:"https://expressionengine.com/blog/expressionengine-3.4.0-released";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2016-07-26T22:35:00+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2016-09-15T23:22:54+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:23:"
+					
+					
+					
+				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:3:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:12:"Robin Sowell";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:5:"email";a:1:{i:0;a:5:{s:4:"data";s:25:"robin.sowell@ellislab.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:3:"uri";a:1:{i:0;a:5:{s:4:"data";s:21:"http://media-cow.com/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}}}}}s:8:"category";a:2:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:17:"CP Accessory Feed";s:6:"scheme";s:60:"https://expressionengine.com/blog/category/cp-accessory-feed";s:5:"label";s:17:"CP Accessory Feed";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:16:"ExpressionEngine";s:6:"scheme";s:59:"https://expressionengine.com/blog/category/expressionengine";s:5:"label";s:16:"ExpressionEngine";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:5399:"
+				<p>We&#8217;re dropping another feature release on you, this one with some nice surprises.  <a href="https://store.ellislab.com/manage">Grab it now</a> and start playing or keep reading for the details.</p>
+
+<h2>Customizable Control Panel Menu</h2>
+
+<p>The ExpressionEngine v3 control panel is a marvel of responsive design and we have now engineered a way to give you the ability to add custom navigation without compromise.</p>
+
+<figure><img src="https://ellislab.com/asset/images/blog/screens-menu-blog.jpg" alt="CP Menu Manager"></figure>
+
+<p>We hope you&#8217;ll love our new <a href="https://docs.expressionengine.com/v3/cp/settings/menu/index.html">Menu Manager</a>.  Create nested menus, assign them to member groups, view on your phone without breaking anything!</p>
+
+<p>Third-party developers are already making hay with the <a href="https://docs.expressionengine.com/v3/development/extension_hooks/cp/menu/index.html#cp-custom-menu">cp_custom_menu hook</a>, creating sub-menus for their add-ons. You can enable and order these menus in the Menu Manager.</p>
+
+<p>See James&#8217; <a href="https://ellislab.com/blog/entry/managing-menus-masterfully">Managing Menus Masterfully</a> post for more on the new manager.</p>
+
+<h2>Control Panel Safe Site URL and Path Variables</h2>
+
+<p>Have you ever moved your site and had to change your paths all over the place in the control panel?  The General Settings is a quick fix but what about those 20 file upload directories you have? Or how about your staging servers and the many places site-specific URLs can be set?</p>
+
+<p>Now you can define a <code>{base_url}</code> and a <code>{base_path}</code> once, and use those tags in your control panel settings or config!  Visit your <a href="https://docs.expressionengine.com/latest/cp/settings/urls.html">URL and Path Settings</a> to get started.</p>
+
+<h2>Security Improvements</h2>
+
+<p>A big hat tip goes out to the security researchers at HackerOne for helping us further tighten ExpressionEngine&#8217;s security.  Our goal is to remain the most secure Content Management System on the market.</p>
+
+<p>This release includes many improvements to keep your site&#8217;s visitors safe:</p>
+
+<ul>
+<li>Improved XSS and CSRF security in the Forum module.</li>
+<li>Improved XSS security in the Member module.</li>
+<li>Improved security by decoding IDN encoded domain names in user-submitted links.</li>
+<li>Improved clickjacking defense by defaulting all requests to SAMEORIGIN framing rules. See the new <a href="https://docs.expressionengine.com/v3/general/system_configuration_overrides.html#x-frame-options">x_frame_options config override</a> for details and header options.</li>
+</ul>
+
+<h2>In the Midnight Hour, More More More&#8230;</h2>
+
+<ul>
+<li>Added a “Maximum number of entries” setting to Channels.</li>
+<li>Added <code>{reverse_count}</code> and <code>{absolute_reverse_count}</code> variables to the Channel Entries tag, for displaying entry count “countdowns”.</li>
+<li>Added a new config override <code>x_frame_options</code> to control the framing rules.</li>
+<li>Added an EllisLab news feed to the homepage.</li>
+<li>Added a permission to enable/disable the news on the CP homepage.</li>
+<li>Added a colorpicker to status highlight colors.</li>
+<li>Added live preview for status color picker.</li>
+<li>Added system overrides <code>code_block_pre</code> and <code>code_block_post</code> to give additional control over the output of &#91;code&#93; blocks.</li>
+<li>Added the ability to override the forum theme with a parameter: <code>&#123;exp:forum theme='my_theme'&#125;</code>.</li>
+<li>When creating and editing Channel entries you now “Save” or “Save &amp; Close” the form.</li>
+<li>Files have regained their ability to be categorized.</li>
+<li>Improved the UI for Template Routes</li>
+<li>The publish form will no longer have an empty category tab, unless you have a Layout that says it should.</li>
+<li>Switching sites in the CP will take you that site’s homepage.</li>
+<li>The File Chooser for Textareas and the RTE ingested some ginko biloba and will remember your filters while editing or creating an entry.</li>
+<li>Deprecation notices are back. Super Admins will see an alert in the “admin” sections of the CP.</li>
+<li>Improved search on the edit page. It now includes entry data along with titles.</li>
+<li>Improved template partial parsing time by a factor of ten.</li>
+<li>Simplified Profiler Performance tab, and broke out time spent accessing the database.</li>
+<li>Language packs saved using the translation utility are now saved in their respective system/user/language folder.</li>
+<li>Channel Sets now export and import category fields.</li>
+<li>Removed some items from the config for new installs.</li>
+<li>File Improvements</li>
+<li>Over a dozen bug fixes</li>
+</ul>
+
+<p><a href="https://docs.expressionengine.com/v3/about/changelog.html#version-3-4-0">Check out the changelog</a> for anything I&#8217;ve missed, then grab a fresh download of <a href="https://store.ellislab.com/manage">ExpressionEngine 3.4.0</a>.</p>
+
+<p>ExpressionEngine v2 users can get those security improvements by installing the new 2.11.3 release.  <a href="https://store.ellislab.com/manage">Download it here</a> and check out the <a href="https://docs.expressionengine.com/v2/about/changelog.html#version-2-11-3">v2 changelog</a> for the details.</p>
+
+				";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Tue, 26 Jul 2016 22:35:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:5389:"<p>We&#8217;re dropping another feature release on you, this one with some nice surprises.  <a href="https://store.ellislab.com/manage">Grab it now</a> and start playing or keep reading for the details.</p>
+
+<h2>Customizable Control Panel Menu</h2>
+
+<p>The ExpressionEngine v3 control panel is a marvel of responsive design and we have now engineered a way to give you the ability to add custom navigation without compromise.</p>
+
+<figure><img src="https://ellislab.com/asset/images/blog/screens-menu-blog.jpg" alt="CP Menu Manager"></figure>
+
+<p>We hope you&#8217;ll love our new <a href="https://docs.expressionengine.com/v3/cp/settings/menu/index.html">Menu Manager</a>.  Create nested menus, assign them to member groups, view on your phone without breaking anything!</p>
+
+<p>Third-party developers are already making hay with the <a href="https://docs.expressionengine.com/v3/development/extension_hooks/cp/menu/index.html#cp-custom-menu">cp_custom_menu hook</a>, creating sub-menus for their add-ons. You can enable and order these menus in the Menu Manager.</p>
+
+<p>See James&#8217; <a href="https://ellislab.com/blog/entry/managing-menus-masterfully">Managing Menus Masterfully</a> post for more on the new manager.</p>
+
+<h2>Control Panel Safe Site URL and Path Variables</h2>
+
+<p>Have you ever moved your site and had to change your paths all over the place in the control panel?  The General Settings is a quick fix but what about those 20 file upload directories you have? Or how about your staging servers and the many places site-specific URLs can be set?</p>
+
+<p>Now you can define a <code>{base_url}</code> and a <code>{base_path}</code> once, and use those tags in your control panel settings or config!  Visit your <a href="https://docs.expressionengine.com/latest/cp/settings/urls.html">URL and Path Settings</a> to get started.</p>
+
+<h2>Security Improvements</h2>
+
+<p>A big hat tip goes out to the security researchers at HackerOne for helping us further tighten ExpressionEngine&#8217;s security.  Our goal is to remain the most secure Content Management System on the market.</p>
+
+<p>This release includes many improvements to keep your site&#8217;s visitors safe:</p>
+
+<ul>
+<li>Improved XSS and CSRF security in the Forum module.</li>
+<li>Improved XSS security in the Member module.</li>
+<li>Improved security by decoding IDN encoded domain names in user-submitted links.</li>
+<li>Improved clickjacking defense by defaulting all requests to SAMEORIGIN framing rules. See the new <a href="https://docs.expressionengine.com/v3/general/system_configuration_overrides.html#x-frame-options">x_frame_options config override</a> for details and header options.</li>
+</ul>
+
+<h2>In the Midnight Hour, More More More&#8230;</h2>
+
+<ul>
+<li>Added a “Maximum number of entries” setting to Channels.</li>
+<li>Added <code>{reverse_count}</code> and <code>{absolute_reverse_count}</code> variables to the Channel Entries tag, for displaying entry count “countdowns”.</li>
+<li>Added a new config override <code>x_frame_options</code> to control the framing rules.</li>
+<li>Added an EllisLab news feed to the homepage.</li>
+<li>Added a permission to enable/disable the news on the CP homepage.</li>
+<li>Added a colorpicker to status highlight colors.</li>
+<li>Added live preview for status color picker.</li>
+<li>Added system overrides <code>code_block_pre</code> and <code>code_block_post</code> to give additional control over the output of &#91;code&#93; blocks.</li>
+<li>Added the ability to override the forum theme with a parameter: <code>&#123;exp:forum theme='my_theme'&#125;</code>.</li>
+<li>When creating and editing Channel entries you now “Save” or “Save &amp; Close” the form.</li>
+<li>Files have regained their ability to be categorized.</li>
+<li>Improved the UI for Template Routes</li>
+<li>The publish form will no longer have an empty category tab, unless you have a Layout that says it should.</li>
+<li>Switching sites in the CP will take you that site’s homepage.</li>
+<li>The File Chooser for Textareas and the RTE ingested some ginko biloba and will remember your filters while editing or creating an entry.</li>
+<li>Deprecation notices are back. Super Admins will see an alert in the “admin” sections of the CP.</li>
+<li>Improved search on the edit page. It now includes entry data along with titles.</li>
+<li>Improved template partial parsing time by a factor of ten.</li>
+<li>Simplified Profiler Performance tab, and broke out time spent accessing the database.</li>
+<li>Language packs saved using the translation utility are now saved in their respective system/user/language folder.</li>
+<li>Channel Sets now export and import category fields.</li>
+<li>Removed some items from the config for new installs.</li>
+<li>File Improvements</li>
+<li>Over a dozen bug fixes</li>
+</ul>
+
+<p><a href="https://docs.expressionengine.com/v3/about/changelog.html#version-3-4-0">Check out the changelog</a> for anything I&#8217;ve missed, then grab a fresh download of <a href="https://store.ellislab.com/manage">ExpressionEngine 3.4.0</a>.</p>
+
+<p>ExpressionEngine v2 users can get those security improvements by installing the new 2.11.3 release.  <a href="https://store.ellislab.com/manage">Download it here</a> and check out the <a href="https://docs.expressionengine.com/v2/about/changelog.html#version-2-11-3">v2 changelog</a> for the details.</p>
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}}}}i:8;a:6:{s:4:"data";s:174:"
+				
+				
+				
+				
+				
+				
+				
+					
+					
+				
+					
+					
+				
+					
+					
+				
+					
+					
+				
+					
+					
+				
+					
+					
+				
+				
+
+				
+				
+					
+					
+				
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:10:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:48:"ExpressionEngine Conference 2016 Call for Papers";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:82:"https://expressionengine.com/blog/expressionengine-conference-2016-call-for-papers";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:82:"https://expressionengine.com/blog/expressionengine-conference-2016-call-for-papers";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2016-07-19T21:55:00+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2016-07-19T22:16:56+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:23:"
+					
+					
+					
+				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:2:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:11:"Derek Jones";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:5:"email";a:1:{i:0;a:5:{s:4:"data";s:24:"derek.jones@ellislab.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}}}}}s:8:"category";a:6:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:17:"CP Accessory Feed";s:6:"scheme";s:60:"https://expressionengine.com/blog/category/cp-accessory-feed";s:5:"label";s:17:"CP Accessory Feed";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:11:"Development";s:6:"scheme";s:54:"https://expressionengine.com/blog/category/development";s:5:"label";s:11:"Development";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}i:2;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:9:"Education";s:6:"scheme";s:52:"https://expressionengine.com/blog/category/education";s:5:"label";s:9:"Education";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}i:3;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:16:"ExpressionEngine";s:6:"scheme";s:59:"https://expressionengine.com/blog/category/expressionengine";s:5:"label";s:16:"ExpressionEngine";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}i:4;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:4:"News";s:6:"scheme";s:47:"https://expressionengine.com/blog/category/news";s:5:"label";s:4:"News";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}i:5;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:15:"Tips and Tricks";s:6:"scheme";s:58:"https://expressionengine.com/blog/category/tips-and-tricks";s:5:"label";s:15:"Tips and Tricks";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1188:"
+				<figure><img src="https://ellislab.com/asset/images/blog/madison_auditorium.jpg" alt="Madison Event Center auditorium"></figure>
+
+<p>The ExpressionEngine Conference is coming to the midwest this year on October 3 &amp; 4th. Details for attendees will be made available soon via the <a href="http://www.expressionengineconference.com">conference website</a>. This year we&#8217;re lending a hand in getting the best speakers and presenters. We sent out a call for papers via our newsletter and Twitter, and the response has been great. The lineup is looking fantastic so far!</p>
+
+<p>If you haven&#8217;t submitted your proposal to speak yet, there are only 10 days left to do so. And the bar has been set high by early submissions, so make yours great! If you&#8217;ve never submitted an abstract for a talk before, you can find some <a href="http://speaking.io/plan/writing-a-cfp/">tips on speaking.io</a>.</p>
+
+<p>Submit your abstract here: <a href="https://ellislab.typeform.com/to/To5klu">EECMS Conference CFP</a></p>
+
+<p>Speakers are free to submit more than one proposal, but all submissions must be in by July 29th. Can&#8217;t wait to see everyone again in October!</p>
+
+				";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Tue, 19 Jul 2016 21:55:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:1178:"<figure><img src="https://ellislab.com/asset/images/blog/madison_auditorium.jpg" alt="Madison Event Center auditorium"></figure>
+
+<p>The ExpressionEngine Conference is coming to the midwest this year on October 3 &amp; 4th. Details for attendees will be made available soon via the <a href="http://www.expressionengineconference.com">conference website</a>. This year we&#8217;re lending a hand in getting the best speakers and presenters. We sent out a call for papers via our newsletter and Twitter, and the response has been great. The lineup is looking fantastic so far!</p>
+
+<p>If you haven&#8217;t submitted your proposal to speak yet, there are only 10 days left to do so. And the bar has been set high by early submissions, so make yours great! If you&#8217;ve never submitted an abstract for a talk before, you can find some <a href="http://speaking.io/plan/writing-a-cfp/">tips on speaking.io</a>.</p>
+
+<p>Submit your abstract here: <a href="https://ellislab.typeform.com/to/To5klu">EECMS Conference CFP</a></p>
+
+<p>Speakers are free to submit more than one proposal, but all submissions must be in by July 29th. Can&#8217;t wait to see everyone again in October!</p>
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}}}}i:9;a:6:{s:4:"data";s:106:"
+				
+				
+				
+				
+				
+				
+				
+					
+					
+				
+					
+					
+				
+				
+
+				
+				
+					
+					
+				
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:10:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:31:"ExpressionEngine 3.3.4 Released";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:65:"https://expressionengine.com/blog/expressionengine-3.3.4-released";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:65:"https://expressionengine.com/blog/expressionengine-3.3.4-released";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2016-07-07T18:58:00+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2016-07-07T20:47:47+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:23:"
+					
+					
+					
+				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:3:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:12:"Robin Sowell";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:5:"email";a:1:{i:0;a:5:{s:4:"data";s:25:"robin.sowell@ellislab.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:3:"uri";a:1:{i:0;a:5:{s:4:"data";s:21:"http://media-cow.com/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}}}}}s:8:"category";a:2:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:17:"CP Accessory Feed";s:6:"scheme";s:60:"https://expressionengine.com/blog/category/cp-accessory-feed";s:5:"label";s:17:"CP Accessory Feed";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:16:"ExpressionEngine";s:6:"scheme";s:59:"https://expressionengine.com/blog/category/expressionengine";s:5:"label";s:16:"ExpressionEngine";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1201:"
+				<p>We’ve just released ExpressionEngine 3.3.4. That&#8217;s 3.3.4 not 3.4.0. The 3.4.0 release is in <a href="https://ellislab.com/blog/entry/expressionengine-3.4.0-developer-preview">developer preview</a> for a wee bit longer.</p>
+
+<p>Here are the highlights:</p>
+
+<ul>
+<li>Security fixes in the control panel for potential SQL and XSS injection vulnerabilities. Hat tip to the dedicated folks from HackerOne who found a few more ways we could better secure our control panel! <a href="https://docs.expressionengine.com/latest/bugs_and_security_reports/index.html#security-reporting-guidelines">Security reports</a> are always appreciated.</li>
+<li>The publish page&#8217;s file modal now searches in all the things, as long as the things are file names, file titles or mime type.</li>
+<li>A little something for the developers in terms of an entrance point to email messages in the <code>email_send</code> extension hook.</li>
+</ul>
+
+<p>In addition, you’ll find a number of bug fixes, and it&#8217;s all listed in the <a href="https://docs.expressionengine.com/v3/about/changelog.html#version-3-3-4">change log</a>. <a href="https://store.ellislab.com/manage">Download</a> it now!</p>
+
+				";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Thu, 07 Jul 2016 18:58:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:1191:"<p>We’ve just released ExpressionEngine 3.3.4. That&#8217;s 3.3.4 not 3.4.0. The 3.4.0 release is in <a href="https://ellislab.com/blog/entry/expressionengine-3.4.0-developer-preview">developer preview</a> for a wee bit longer.</p>
+
+<p>Here are the highlights:</p>
+
+<ul>
+<li>Security fixes in the control panel for potential SQL and XSS injection vulnerabilities. Hat tip to the dedicated folks from HackerOne who found a few more ways we could better secure our control panel! <a href="https://docs.expressionengine.com/latest/bugs_and_security_reports/index.html#security-reporting-guidelines">Security reports</a> are always appreciated.</li>
+<li>The publish page&#8217;s file modal now searches in all the things, as long as the things are file names, file titles or mime type.</li>
+<li>A little something for the developers in terms of an entrance point to email messages in the <code>email_send</code> extension hook.</li>
+</ul>
+
+<p>In addition, you’ll find a number of bug fixes, and it&#8217;s all listed in the <a href="https://docs.expressionengine.com/v3/about/changelog.html#version-3-3-4">change log</a>. <a href="https://store.ellislab.com/manage">Download</a> it now!</p>
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:7:"english";}}}}}}}}}}}}s:4:"type";i:512;s:7:"headers";a:10:{s:4:"date";s:29:"Wed, 25 Jan 2017 18:55:29 GMT";s:6:"server";s:6:"Apache";s:10:"set-cookie";s:842:"exp_last_visit=1170010529; expires=Thu, 25-Jan-2018 18:55:29 GMT; Max-Age=31536000; path=/; domain=.expressionengine.com; secure; httponly, exp_last_activity=1485370529; expires=Thu, 25-Jan-2018 18:55:29 GMT; Max-Age=31536000; path=/; domain=.expressionengine.com; secure; httponly, exp_tracker=%7B%220%22%3A%22blog%2Frss-feed%2Fcpnews%22%2C%22token%22%3A%2298c762ed8a4753843b1cf601045e3acf%22%7D; path=/; domain=.expressionengine.com; secure; httponly, exp_csrf_token=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=.expressionengine.com; secure; httponly, exp_csrf_token=c86f8732fda9f2b11c9360ac2a92c15d05d7fa0a; expires=Wed, 25-Jan-2017 20:55:29 GMT; Max-Age=7200; path=/; domain=.expressionengine.com; secure; httponly, PHPSESSID=dmcllg92h9757jkt1cnk8kl243; path=/; domain=.expressionengine.com; secure; HttpOnly";s:15:"x-frame-options";s:10:"SAMEORIGIN";s:7:"expires";s:29:"Fri, 20 Jan 2017 21:21:00 GMT";s:13:"last-modified";s:29:"Fri, 20 Jan 2017 20:21:00 GMT";s:13:"cache-control";s:62:"no-store, no-cache, must-revalidate, post-check=0, pre-check=0";s:6:"pragma";s:8:"no-cache";s:25:"strict-transport-security";s:34:"max-age=7776000; includeSubDomains";s:12:"content-type";s:23:"text/xml; charset=utf-8";}s:5:"build";s:14:"20161226234206";}}
