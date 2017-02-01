@@ -44,9 +44,6 @@
 			</div>
 		</div>
 		<div id="blackland">
-			<div id="rock-gradation"></div>
-			<div id="underground">
-			</div>
 		</div>
 	</div>
 </body>
